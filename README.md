@@ -1,4 +1,4 @@
-# 2023_cat
+# 2023_cat - Code C
 
 Le but de ce projet était d'implémenter une fonctionnalité ressemblant à celle de cat. Il s'agit d'un programme qui est capable de lire sur plusieurs entrées différentes et de restituer ce que le programme a réussi à lire sur une entrée standard.
 
